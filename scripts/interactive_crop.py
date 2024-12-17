@@ -106,8 +106,6 @@ class InteractiveRegionSelector:
         print(f"Background patches saved to {bg_dir}")
 
 
-
-# Main Execution
 if __name__ == "__main__":
 
     # TODO: Take image input from UI
